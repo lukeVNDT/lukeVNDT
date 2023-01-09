@@ -1,7 +1,7 @@
 - 👋 Hi, first of all let me introduce myself. My full name is Van Nguyen Duy Tan, you can call me Luke Van.
 - 🧑‍💻 I'm a Software Engineer studying at Can Tho University of Technology. I started my first website project using PHP, HTML, CSS and Javascript languages and found a love in             website development.
 - ✨ I started with programming by building simple windows form app. After that, I moved on to website development. Currently, I use Laravel, Vuejs, ASP.NET Core to build web applications and have a passion for these Frameworks
-- 📫 How to reach me: lukevanizme@gmail.com
+- 📫 How to reach me: vannguyenduytan0209@gmail.com
 
  <img height="30" src="https://img.icons8.com/emoji/48/000000/rocket-emji.png"/> Languages/ Libraries, Framework and Tools:
 
